@@ -13,3 +13,8 @@ int main()
 
     return 0;
 }
+
+output:
+Process ID: 10709
+Parent Process ID: 10709
+
